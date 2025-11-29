@@ -2,6 +2,7 @@
 Project Overview
 
 This repository contains the official UI/UX design deliverables for the E-Cell (Entrepreneurship Cell) VIT Bhopal Startup & Innovation Hub landing page. The design aims to create a vibrant, professional, and high-energy digital presence that clearly communicates E-Cell's mission to prospective student founders, mentors, and partners.
+the Link to the figma desgina is: https://www.figma.com/make/nniMCFo20TbBlV5GgQABJB/Landing-Page-Design?node-id=0-4&t=0y4BCuRBlIFLKZcv-1
 
 The design focuses on key conversion goals: event registration, startup application submissions, and community engagement.
 
